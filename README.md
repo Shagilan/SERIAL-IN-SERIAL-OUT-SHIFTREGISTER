@@ -57,9 +57,7 @@ end
 endmodule
 ```
 ```
-Developed by:  PRAVEEN RAJ R
-RegisterNumber: 24901056
-```
+
 **RTL LOGIC FOR SISO Shift Register**
 ![image](https://github.com/user-attachments/assets/3eb6ab2c-c2d9-48d5-94f6-641cf0756f16)
 
